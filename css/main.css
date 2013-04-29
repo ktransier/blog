@@ -50,7 +50,7 @@ a {
 ul {
   list-style-type: none;
   margin: 40px auto 0px;
-  width: 239px;
+  width: 250px;
   height: 80px;
   font-size: 18px;
   color: rgba(0, 6, 15, 0.74);
@@ -94,4 +94,12 @@ li {
   width: 48%;
   margin-top: 8px;
   float: right;
+}
+
+footer {
+  color: rgba(0, 6, 15, 0.74);
+  margin: -5px auto 0px;
+  width: 0px;
+  padding: 60px 0px;
+  font-size: 20px;
 }
