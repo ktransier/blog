@@ -1,13 +1,14 @@
 ---
-layout: main
+layout: page
 ---
-<div class="post">
+
 Project Manager, Resolve *(2010 - present)*
+
 Web Engineer, 5ifty&5ifty *(2013 - present)*
 
 <hr>
 
-Contributed to the conceptual development and lead development of Donately's new Insights dashboard
+Contributed to the conceptual planning and lead development of Donately's new Insights dashboard
 *Technologies: D3, AngularJS, Ruby on Rails, Redis*
 
 Lead on design and cartography for [Hidden In Plain Sight](https://s3-us-west-2.amazonaws.com/theresolve/HIDDEN+IN+PLAIN+SIGHT+-+%5BFINAL+V%5D.pdf), a report exposing Sudan's harboring of the Lord's Resistance Army from 2009-2013 in the Kafia Kingi Enclave
@@ -41,4 +42,3 @@ Joined [The Resolve](http://www.theresolve.org/), a humanitarian advocacy organi
 Raised over $50,000 and traveled 8,000 miles for 2 months across Arizona, New Mexico, Colorado, Utah, and Idaho raising funds for secondary education programs in northern Uganda with Invisible Children
 
 Hitchhiked 2000km+ across the North and South Islands of New Zealand over the course of 4 months, hiked the Heaphy and Abel Tasman Tracks on the southern island of New Zealand, bungee jumped from the Nevis Platform in Queenstown
-</div>
