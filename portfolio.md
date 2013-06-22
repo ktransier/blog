@@ -1,12 +1,18 @@
 ---
 layout: page
+published: true
 ---
 
-Project Manager, Resolve *(2010 - present)*
+Project Manager, The Resolve LRA Crisis Initiative *(2010 - present)*
 
 Web Engineer, 5ifty&5ifty *(2013 - present)*
 
 <hr>
+Internationalized worldvisionyouth.org
+
+Built Donately's Form Generator
+
+Built Donately's Team Dashboard, giving Donately team members key metrics on daily donation totals and platform growth
 
 Contributed to the conceptual planning and lead development of Donately's new Insights dashboard
 *Technologies: D3, AngularJS, Ruby on Rails, Redis*
@@ -16,7 +22,7 @@ Lead on design and cartography for [Hidden In Plain Sight](https://s3-us-west-2.
 
 Joined [5ifty&5ifty](http://www.fiftyandfifty.org/), a creative humanitarian studio based in San Diego, CA as a web engineer building Donately, a donation management platform
 
-Contributor to the International Standards in Casualty Recording [development process](http://www.oxfordresearchgroup.org.uk/publications/news/standards_process_first_meeting), sponsored by the Oxford Research Group and kicked off in Bogotá, Colombia in Feb. 2013
+Contributor to the International Standards in Casualty Recording [development process](http://www.oxfordresearchgroup.org.uk/publications/news/standards_process_first_meeting), sponsored by the Oxford Research Group and kicked off in Bogota, Colombia in Feb. 2013
 
 Lead on design, cartography and data visualization for the [LRA Crisis Tracker 2012 Annual Security Brief](http://www.theresolve.org/blog/archives/3071033980). 
 *Coverage: [L.A. Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-killings-kony-lords-resistance-army-20130207,0,6738399.story), [Fox News](http://www.foxnews.com/world/2013/02/04/central-african-rebel-group-lra-losing-fighters-as-us-african-troops-encourage/), [Stars and Stripes](http://www.stripes.com/news/africa/group-tracking-lra-sees-defections-weakening-rebel-force-1.206474)*
