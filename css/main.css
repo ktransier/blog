@@ -1,3 +1,5 @@
+/* GENERAL */
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 body {
@@ -6,11 +8,9 @@ body {
   line-height: 1.6;
 }
 
-.navigation a {
-  color: rgba(0, 6, 15, 0.74);
-}
+/*NAVIGATION*/
 
-#mark{
+#mark {
   font-size: 190;
   font-weight: 700;
   text-align: center;
@@ -22,6 +22,23 @@ body {
   text-decoration: none;
   color: rgba(0, 6, 15, 0.74);
 }
+
+.navigation a {
+  color: rgba(0, 6, 15, 0.74);
+  text-decoration: none;
+}
+
+.navigation {
+  font-size: 20px;
+  margin: 40px auto 70px;
+  float: none;
+}
+
+.navigation-item {
+  float: left;
+}
+
+/* POST */
 
 .post {
   margin: 0px auto;
@@ -44,49 +61,10 @@ body {
 .post-date {
   color: rgba(128, 128, 128, 0.82);
   font-weight: 400;
-  padding: 10px 0px;
+  padding: 0px 0px 10px;
 }
 
-.navigation {
-  list-style-type: none;
-  font-size: 20px;
-  color: rgba(0, 6, 15, 0.74);
-  margin: 40px auto 70px;
-  float: none
-}
-
-.navigation a {
-  text-decoration: none;
-}
-
-.navigation-item {
-  float: left;
-  text-align: center;
-}
-
-/* Index */
-
-.post-list {
-  width: 650px;
-  margin: 0px auto;
-}
-
-.post-title-list {
-  color: rgba(0, 6, 15, 0.74);
-  font-weight: 400;
-  font-size: 25;
-}
-
-.post-title-list a {
-  color: rgba(0, 6, 15, 0.74);
-  text-decoration: none;
-}
-
-.post-date-list {
-  color: rgba(128, 128, 128, 0.82);
-  font-weight: 400;
-  margin-bottom: 15px;
-}
+/* FOOTER */
 
 footer {
   color: rgba(0, 6, 15, 0.74);
@@ -96,28 +74,13 @@ footer {
   font-size: 20px;
 }
 
-.circular {
-  width: 70px;
-  height: 70px;
-  border-radius: 35px;
-  -webkit-border-radius: 35px;
-  -moz-border-radius: 35px;
-  }
-
-.portfolio-post {
-  margin-bottom: 15px;
-}
-
-.portfolio-preview-image {
-  float: left;
-}
-
-.portfolio-post-description {
-}
+/* IMG */
 
 img {
   width: 100%;
 }
+
+/* HR */
 
 hr {
   margin: 80px 0px;
