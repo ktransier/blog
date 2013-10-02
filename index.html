@@ -10,5 +10,8 @@ layout: main
       <div class="post-date-list">
         {{post.date | date: "%d %B %Y" }} 
       </div>
+      {{ post.excerpt }} 
+            <a href="{{ post.url }}">More...</a>
     {% endfor %}
 </div>
+<hr>

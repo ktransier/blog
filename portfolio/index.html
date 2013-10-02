@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: post
 published: true
 ---
-    <div class="post col-md-6">
-      {% for post in site.categories['portfolio'] %}
-        <div class="portfolio-post">
-           <div class="portfolio-post-description">
-             {{ post.excerpt }} 
-           </div>
-        </div>
-      {% endfor %}
-    </div>
+
+{% for post in site.categories['portfolio'] %}
+  <div class="portfolio-post">
+     <div class="portfolio-post-description">
+       {{ post.excerpt }} 
+     </div>
+  </div>
+{% endfor %}
