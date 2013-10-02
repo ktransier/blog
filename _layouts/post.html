@@ -1,11 +1,14 @@
 ---
 layout: main
 ---
-<div class="post">
+
+<div class="post col-md-6">
     <div class="post-title">{{page.title}}</div>
-    <div class="post-date">{{page.date | date: "%d %B %Y" }}</div>
+    <div class="post-date">{{page.date | date: "%B %Y" }}</div>
     {{content}}
+    </div>
 </div>
 <footer>
   &#9830;
 </footer>
+

@@ -1,2 +1,0 @@
-Kenneth Transier
-@ktransier

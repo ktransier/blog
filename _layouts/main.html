@@ -1,18 +1,24 @@
 <html>
   <head>
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
   </head>
 
   <body>
     <p id="mark">
       <a href="/"> K </a>
     </p>
-    <ul>
-        <li> <a href="/about"> About </a> </li>
-        <li> <a href="/"> Writing </a></li>
-        <li> <a href="/portfolio"> Portfolio </a></li>
-    </ul>
+    <div class="navigation col-md-3">
+        <div class="navigation-item col-md-4"> <a href="/about"> About </a> </div>
+        <div class="navigation-item col-md-4"> <a href="/"> Writing </a></div>
+        <div class="navigation-item col-md-4"> <a href="/portfolio"> Portfolio </a></div>
+    </div>
     {{ content }}
+
+    
   </body>
 
 </html>
