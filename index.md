@@ -91,10 +91,13 @@ Frameworks/Libraries: <i>Sinatra, node.js</i><br />
 <div class="section"></div>
 ### International Travel
 
-Participated in a casualty recording working group sponsored by the Oxford Research group in Bogota, Colombia in Feb. 2013
+<div class="date">February 2013</div> 
+Participated in a casualty recording working group sponsored by the Oxford Research group in Bogota, Colombia
 
+<div class="date">November 2011</div> 
 Traveled to Geneva and Paris while attending the International Conference on Crisis Mapping
 
+<div class="date">August-December 2008</div> 
 Hitchhiked 2000km+ [across the North and South Islands](/portfolio/new-zealand) of New Zealand over the course of 4 months, hiked the Heaphy and Abel Tasman Tracks on the southern island
 
 <div class="section"></div>
