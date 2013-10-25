@@ -29,7 +29,7 @@ Legislative Fellow, Resolve <i>(January 2010 - May 2010)</i><br />
 [Built Donately's team dashboard](/portfolio/dntly-team-dash), giving Donately team members key metrics on daily donation totals and platform growth.
 
 <div class="date">May 2013</div>
-[Built Donately's form generator](/portfolio/form-gen). Using AngularJS's two-way databinding, the form generator generates an embed code and live preview of Dntly's donation form.
+[Built Donately's form generator](/portfolio/form-gen). Using AngularJS's two-way databinding, the form generator generates an embed code and live preview of Dntly's donation form.
 
 <div class="date">April 2013</div>
 [Internationalized World Vision Youth](/portfolio/wvy) to handle support for their Spanish-speaking expansion and paved the way for future language additions.
