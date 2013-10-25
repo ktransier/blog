@@ -5,7 +5,7 @@ published: true
 
 ![](/images/kenneth.jpg)
 <div class="section"></div>
-I'm Kenneth Transier and I'm a Ruby/Javscript programmer, data analyst, cartographer, and human rights campaigner based in Seattle. Currently I'm pursuing a Bachelor of Arts in Political Science at the University of Washington, with a focus on International Security.
+Hi there, I'm Kenneth Transier, a Ruby/Javscript programmer, data analyst, cartographer, and human rights campaigner based in Seattle. Currently I'm pursuing a Bachelor of Arts in Political Science at the University of Washington, with a focus on International Security.
 
 <div class="section"></div>
 ### Experience
