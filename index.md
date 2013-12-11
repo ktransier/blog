@@ -13,6 +13,9 @@ Ruby Developer, 5ifty&5ifty <i>(January 2013 - present)</i><br />
 Project Manager, Resolve <i>(June 2010 - present)</i><br />
 Legislative Fellow, Resolve <i>(January 2010 - May 2010)</i><br />
 
+<div class="date">November 2013</div>
+[Built Donately's #GivingTuesday campaign](/portfolio/giving-tuesday), enabling all Donately customers to easily participate in #GivingTuesday
+
 <div class="date">October 2013</div>
 [Built the LRA Crisis Tracker API](/portfolio/tracker-api), a REST based API for LRA Crisis Tracker data. Built using Ruby on Rails, the app also includes individual incident and community views and a basic dashboard for comparing individual datasets.
 

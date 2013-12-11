@@ -4,7 +4,7 @@ layout: post
 category: portfolio
 ---
 
-[Built Giving Tuesday donation pages for Donately accounts](/portfolio/giving-tuesday)
+[Built Donately's #GivingTuesday campaign](/portfolio/giving-tuesday), enabling all Donately customers to easily participate in #GivingTuesday
 
 <!--more-->
 
