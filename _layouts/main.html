@@ -10,19 +10,29 @@
   </head>
 
   <body>
-    <div id="logo"></div>
- <!--    <div class="navigation col-md-3">
-        <div class="navigation-item col-md-4"> <a href="http://twitter.com/ktransier"> @ktransier </a> </div>
-        <div class="navigation-item col-md-4"> <a href="mailto:hello@kenneth.fm"> Email </a></div>
-    </div> -->
-    <div class="post col-md-6">
-      {{ content }}
-    </div>
-    <div class="footer">
-      <div class="navigation col-md-3">
-        <div class="navigation-item"> <a href="http://twitter.com/ktransier" target="_blank"> @ktransier </a> / <a href="mailto:hello@kenneth.fm"> hello@kenneth.fm</a></div>
+    <div class="container">
+      <div class="col-md-3">
+        <a href="/">
+          <div id="logo"></div>
+        </a>
+        I'm Kenneth Transier, a programmer, designer, cartographer, and human rights campaigner based in Seattle.
+        <div class="nav-item"> 
+          <a href="/">Blog</a>
+        </div>
+        <div class="nav-item"> 
+          <a href="/portfolio">Portfolio</a>
+        </div>
+        <div class="nav-item"> 
+          <a href="https://twitter.com/ktransier" class="twitter-follow-button" data-show-count="false">Follow @ktransier</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="content">
+          {{ content }}
+        </div>
       </div>
     </div>
+    <div class="footer">
+    </div>
   </body>
-
 </html>

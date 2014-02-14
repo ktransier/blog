@@ -4,12 +4,17 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.6;
 }
 
-a{
+a {
   color: #3A79AA;
+}
+
+h2 {
+  color: #555;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -18,14 +23,18 @@ h3 {
   font-size: 17px;
 }
 
+.container {
+  max-width: 1050px;
+}
+
 /*NAVIGATION*/
 
 #logo {
   background: url('/images/logo.png') no-repeat;
   background-size: 200px;
   width: 200px;
-  height: 200px;
-  margin: 100px auto 0px;
+  height: 175px;
+  margin: 70px 0px 0px -10px;
 }
 
 .navigation a {
@@ -39,17 +48,14 @@ h3 {
   float: none;
 }
 
-.navigation-item {
-  float: left;
+.nav-item {
+  margin-top: 10px;
 }
 
 /* POST */
 
-.post {
-  margin: 0px auto;
-  font-weight: 400;
-  color: rgb(71, 71, 71);
-  float: none;
+.content {
+  margin-top: 83px; 
 }
 
 .post-title {
@@ -64,7 +70,6 @@ h3 {
 }
 
 .post-date {
-  color: rgba(128, 128, 128, 0.82);
   font-weight: 400;
   padding: 0px 0px 10px;
 }
@@ -107,4 +112,14 @@ hr {
 
 .footer {
   margin-bottom: 150px;
+}
+
+.tweet {
+  margin: 30px auto;
+  width: 500px;
+}
+
+.post-image {
+  border: 1px solid #E7E7E7;
+  margin: 30px 0px;
 }
