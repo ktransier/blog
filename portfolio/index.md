@@ -7,8 +7,8 @@ published: true
 
 <div class="section"></div>
 ### Experience
-Ruby Developer, 5ifty&5ifty <i>(January 2013 - present)</i><br />
 Project Manager, Resolve <i>(June 2010 - present)</i><br />
+Ruby Developer, 5ifty&5ifty <i>(January 2013 - January 2014)</i><br />
 Legislative Fellow, Resolve <i>(January 2010 - May 2010)</i><br />
 
 <div class="date">November 2013</div>
