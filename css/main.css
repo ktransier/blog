@@ -27,6 +27,11 @@ h3 {
   max-width: 1050px;
 }
 
+.content {
+  margin-top: 83px;
+}
+
+
 /*NAVIGATION*/
 
 #logo {
@@ -54,8 +59,8 @@ h3 {
 
 /* POST */
 
-.content {
-  margin-top: 83px; 
+.post {
+  margin-bottom: 75px;
 }
 
 .post-title {
@@ -71,7 +76,18 @@ h3 {
 
 .post-date {
   font-weight: 400;
-  padding: 0px 0px 10px;
+  padding: 0px 0px 20px;
+}
+
+.post-image {
+  border: 1px solid #E7E7E7;
+  margin: 15px 0px;
+}
+
+blockquote p {
+  font-size: 14px;
+  line-height: 1.6;
+  font-weight: 500;
 }
 
 /* FOOTER */
@@ -114,12 +130,9 @@ hr {
   margin-bottom: 150px;
 }
 
+
+/* Tweet container */
 .tweet {
   margin: 30px auto;
   width: 500px;
-}
-
-.post-image {
-  border: 1px solid #E7E7E7;
-  margin: 30px 0px;
 }
