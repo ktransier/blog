@@ -4,5 +4,5 @@ url: "http://localhost:4000"
 paginate: 10
 permalink: /:categories/:title/
 markdown: redcarpet
-pygments: true
+highlighter: true
 excerpt_separator: <!--more-->

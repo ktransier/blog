@@ -1,10 +1,11 @@
 <html>
   <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kenneth Transier</title>
   </head>
@@ -16,18 +17,26 @@
           <div id="logo"></div>
         </a>
         I'm Kenneth Transier, a programmer, designer, cartographer, and human rights campaigner based in Seattle.
-        <div class="nav-item"> 
-          <a href="/">Blog</a>
-        </div>
-        <div class="nav-item"> 
-          <a href="/portfolio">Portfolio</a>
-        </div>
-        <div class="nav-item"> 
-          <a href="https://twitter.com/ktransier" class="twitter-follow-button" data-show-count="false">Follow @ktransier</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-        </div>
+        <br />
+        <a href="https://github.com/ktransier">
+          <i class="fa fa-github" style="font-size: 25px;"></i>
+        </a>
+        <a href="https://twitter.com/ktransier">
+          <i class="fa fa-twitter" style="font-size: 25px;"></i>
+        </a>
+        <a href="https://instagram.com/ktransier">
+          <i class="fa fa-instagram" style="font-size: 25px;"></i>
+        </a>
+
       </div>
       <div class="col-md-9">
         <div class="content">
+          <div style="width: 100%">
+            <div class="btn-group" role="group" style="float: right">
+              <button type="button" class="btn btn-default"><i class="fa fa-th-large"></i></button>
+              <button type="button" class="btn btn-default"><i class="fa fa-bars"></i></button>
+            </div>
+          </div>
           {{ content }}
         </div>
       </div>

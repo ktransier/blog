@@ -9,7 +9,7 @@ published: true
       <a href="{{ post.url}}">{{ post.title }}</a>
     </div>
     <div class="post-date">
-      {{post.date | date: "%B %d, %Y" }}
+      {{post.date | date: "%B %Y" }}
     </div>
     {{ post.excerpt }}
   </div>

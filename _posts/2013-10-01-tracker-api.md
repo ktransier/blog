@@ -1,0 +1,12 @@
+---
+published: true
+layout: post
+title: LRA Crisis Tracker API
+category: blog
+---
+
+I started work on the LRA Crisis Tracker API, which provides a REST API to LRA attack, returnee and commander location data. This project later became the backbone of LRA Crisis Tracker 3.0, which replaced the legacy Crisis Tracker.
+
+*Technologies: Ruby on Rails, JS, Highcharts.js, Leaflet.js*
+
+[<img src="/images/api.png">](http://lra.herokuapp.com) 
