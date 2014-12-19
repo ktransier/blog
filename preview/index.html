@@ -1,0 +1,25 @@
+---
+layout: main
+published: true
+---
+<div class="col-md-9">
+  <div class="content">
+
+    <div class="post-style-toggles-parent-container">
+    	<div class="post-style-toggles">
+    	  <a href="/preview">
+    	    <i class="fa fa-th-large active-icon"></i>
+    	  </a>
+    	  <a href="/">
+    	    <i class="fa fa-bars inactive-icon"></i>
+    	  </a>
+    	</div>
+    </div>
+
+		{% for post in site.categories['blog'] %}
+		    <div class="preview-image-container">
+		      <a href="{{ post.url}}"><img src="{{ post.image_url }}" class="preview-image"></a>
+		    </div>
+		{% endfor %}
+	</div>
+</div>

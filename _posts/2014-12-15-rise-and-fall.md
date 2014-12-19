@@ -3,6 +3,7 @@ published: false
 layout: post
 title: The Rise and Fall of Donate for iPhone
 category: blog
+image_url:
 ---
 
 On November 8th, I made the initial git commit for Donate for iPhone, my first app for iOS. The idea was to build an app that enabled donors to give to a hand-selected list of non-profits through ApplePay.

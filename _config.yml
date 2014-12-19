@@ -1,7 +1,6 @@
 name: "Kenneth.fm"
 description: "Kenneth's blog"
 url: "http://localhost:4000"
-paginate: 10
 permalink: /:categories/:title/
 markdown: redcarpet
 highlighter: true
