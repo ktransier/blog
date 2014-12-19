@@ -155,19 +155,19 @@ hr {
 
 /* Icons*/
 
-.fa {
-  font-size: 19px !important;
+i.fa {
+  font-size: 14px !important;
 }
 
-.active-icon {
+.active-toggle {
   color: #4D7FAC;
   margin-right: 2px;
-    font-size: 17px !important;
+  font-size: 14px !important;
 }
 
-.inactive-icon {
+.inactive-toggle {
   color: #D7D7D7;
-  font-size: 18px !important;
+  font-size: 14px !important;
 }
 
 
