@@ -31,6 +31,12 @@ h3 {
   margin-top: 83px;
 }
 
+@media (max-width: 1000px) {
+  .content {
+    margin-top: 40px;
+  }
+}
+
 
 /*NAVIGATION*/
 
@@ -60,7 +66,7 @@ h3 {
     width: 80%;
     max-width: 300px;
     text-align: center;
-    margin: 0px auto 30px;
+    margin: 0px auto 20px;
   }
 }
 
@@ -169,10 +175,6 @@ hr {
   font-style: italic;
   text-transform: uppercase;
   margin-top: 20px;
-}
-
-.footer {
-  margin-bottom: 150px;
 }
 
 
