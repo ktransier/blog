@@ -4,31 +4,16 @@ published: true
 ---
 <div class="col-md-9">
   <div class="content">
-
-    <div class="post-style-toggles-parent-container">
-      <div class="post-style-toggles">
-        <a href="/" class="active-toggle">
-          <i class="fa fa-th-large"></i>
-        </a>
-        <a href="/blog" class="inactive-toggle">
-          <i class="fa fa-bars"></i>
-        </a>
-      </div>
-    </div>
-
     {% for post in site.categories['blog'] %}
-        <div class="preview-container">
-            <a href="{{ post.url}}" class="preview-link"></a>
-            <div class="preview-text">
-              <div>
-                <b>{{ post.title }}</b>
-              </div>
-              <div>
-                <em>{{post.date | date: "%B %Y" }}</em>
-              </div>
-            </div>
-          <a href="{{ post.url}}"><img src="{{ post.image_url }}" class="preview-image"></a>
+      <div class="post">
+        <div class="post-title">
+          <a href="{{ post.url}}">{{ post.title }}</a>
         </div>
+        <div class="post-date">
+          {{post.date | date: "%B %Y" }}
+        </div>
+        {{ post.excerpt }}
+      </div>
     {% endfor %}
   </div>
 </div>
