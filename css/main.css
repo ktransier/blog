@@ -33,7 +33,8 @@ h3 {
 
 @media (max-width: 1000px) {
   .content {
-    margin-top: 40px;
+    max-width: 600px;
+    margin: 40px auto 0px;
   }
 }
 
