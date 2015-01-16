@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Lessons learned building a prototype iOS donation app using ApplePay "
 category: blog
