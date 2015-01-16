@@ -42,3 +42,5 @@ This doesn't mean the project was in any way a wasted effort. I learned an incre
 Creating round images with clipsToBounds
 - Creating field validations for email and dollar amounts
 - Using Images.xcassets with 1x,2x,3x assets
+
+On to the next project.
