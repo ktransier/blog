@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: The Rise and Fall of Donate for iPhone
+title: "Lessons learned building a prototype iOS donation app using ApplePay "
 category: blog
 image_url: null
 ---
