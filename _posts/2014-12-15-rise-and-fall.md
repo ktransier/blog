@@ -21,7 +21,7 @@ While I strongly disagree with this policy, this was entirely a blunder on my pa
 The most important lesson here is obvious: always read the entire [Apple Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) before starting a project. This isn't the web - you have to work within very specific constraints dictated by a single company. If you're doing something that would push the boundaries of any of the guidelines, do a search to see if anyone else has had difficulty with the review process. Get a prototype up and running fast, then submit to TestFlight Beta Review, to catch any early problems with App Store Guidelines.
 
 This doesn't mean the project was in any way a wasted effort. I learned an incredible amount in the making of the app and I'm still eager to work on other ideas I've been exploring. In the course of the project I learned:
-- IBOutlets and IBActions, using Assistant Editor with Storyboards
+-- IBOutlets and IBActions, using Assistant Editor with Storyboards
 - Autolayout, including autolayout within a scrollview
 - Static and dynamic tableviews
 - cellForRowAtIndexPath, didSelectRowAtIndexPath, numberOfRowsInSection
