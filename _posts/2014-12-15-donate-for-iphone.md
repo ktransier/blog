@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Lessons learned building a prototype iOS donation app using ApplePay "
+title: "Lessons learned building a prototype iOS donation app with ApplePay"
 category: blog
 image_url: null
 ---
