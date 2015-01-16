@@ -6,6 +6,6 @@ category: blog
 image_url: /images/preview/givingtuesday.jpg
 ---
 
-I developed Donately's #GivingTuesday campaign, enabling all Donately customers to easily participate in #GivingTuesday.
+I developed Donately's #GivingTuesday campaign, enabling all Donately customers to easily participate with a custom Giving Tuesday donation page.
 
 <img src="/images/giving-tuesday.png">

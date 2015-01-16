@@ -6,6 +6,6 @@ category: blog
 image_url: /images/track.png
 ---
 
-I designed and laid out Getting Back on Track (English/French), a report sponsored by 10 human rights organizations providing detailed recommendations to the U.N. Security Council on ending the threat of the Lord's Resistance Army. *Coverage: [the Guardian](http://www.guardian.co.uk/global-development/2012/dec/18/ngo-un-kony-lords-resistance-army)*
+Here's the final release of [Getting Back on Track](http://www.enoughproject.org/files/LRA_Joint_Report.pdf), a report sponsored by 10 human rights organizations providing detailed recommendations to the U.N. Security Council on ending the threat of the Lord's Resistance Army. *Coverage: [the Guardian](http://www.guardian.co.uk/global-development/2012/dec/18/ngo-un-kony-lords-resistance-army)*
 
 [<img src="/images/track.png">](http://www.enoughproject.org/files/LRA_Joint_Report.pdf)
