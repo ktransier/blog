@@ -221,3 +221,18 @@ i.fa {
 .post-style-toggles {
   float: right;
 }
+
+.inline-image {
+  width: 300px;
+  float: left;
+  margin: 10px 15px 15px 0px;
+}
+
+@media (max-width: 600px) {
+  .inline-image {
+    width: 100%;
+    float: none;
+    margin: 10px 0px;
+  }
+}
+

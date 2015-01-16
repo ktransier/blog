@@ -6,6 +6,8 @@ category: blog
 image_url: null
 ---
 
+<img src="/images/donate-for-iphone-3.png" class="inline-image">
+
 On November 8th, I made the initial commit for Donate for iPhone, my first app for iOS. The idea was to build an app that enabled donors to give to a hand-selected list of non-profits through ApplePay.
 
 I find that when learning a new language or platform, it's best to start with a recommended set of lessons and then jump immediately into a project you're interested in building. A project aiming to solve an interesting problem keeps a developer motivated and immediately thrusts you into real-world development challenges. I started with the series of lessons through Bitfountain's [The Complete iOS 8 Course with Swift](http://bitfountain.io/course/complete-ios8/), an incredibly up-to-date series using Swift and Xcode 6.
