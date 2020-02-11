@@ -10,5 +10,3 @@ Hi! I'm Kenneth Transier. Currently I work as a software engineer on the digital
 You can reach me at
 <a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>
 , or [@ktransier](http://twitter.com/ktransier) on Twitter.
-
--KT
