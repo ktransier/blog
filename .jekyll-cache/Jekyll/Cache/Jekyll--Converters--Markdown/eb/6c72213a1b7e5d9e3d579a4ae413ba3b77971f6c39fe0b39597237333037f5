@@ -1,0 +1,35 @@
+I"�
+<p><img src="/images/donate-for-iphone-3.png" class="inline-image" /></p>
+
+<p>On November 8th, I made the initial commit for Donate for iPhone, my first app for iOS. The idea was to build an app that enabled donors to give to a hand-selected list of non-profits through ApplePay.</p>
+
+<p>I find that when learning a new language or platform, it’s best to start with a recommended set of lessons and then jump immediately into a project you’re interested in building. A project aiming to solve an interesting problem keeps a developer motivated and immediately thrusts you into real-world development challenges. I started with the series of lessons through Bitfountain’s <a href="http://bitfountain.io/course/complete-ios8/">The Complete iOS 8 Course with Swift</a>, an up-to-date series using Swift and Xcode 6.</p>
+
+<p>Behind the scenes, ApplePay requires a third-party payment processor to handle the actual charge and thankfully Stripe was a launch partner. When ApplePay is triggered on the device, the user uses TouchID to confirm the payment and then a token is generated. You take this token and pass it to an external API that you’ve set up to handle charges. After successfully charging or rejecting the card through Stripe’s API, you return a JSON response to the app, close ApplePay and display a relevent success or error message.</p>
+
+<p>In the course of the project I learned:</p>
+
+<ul>
+  <li>IBOutlets and IBActions, using Assistant Editor with Storyboards</li>
+  <li>Autolayout, including autolayout within a scrollview</li>
+  <li>Static and dynamic tableviews</li>
+  <li>cellForRowAtIndexPath, didSelectRowAtIndexPath, numberOfRowsInSection</li>
+  <li>Passing data to controllers using seques</li>
+  <li>ApplePay + Stripe integration, including PaymentKit integration</li>
+  <li>Swift-Objective-C bridging header</li>
+  <li>Creating smooth tableview scrolling with SDWebImage for image calling and caching</li>
+  <li>Moving views up to enable seeing textfield and keyboard simultaneously with TPKeyboardAvoiding</li>
+  <li>In-app notifications with TSMessages</li>
+  <li>UIWebView, including passing and loading URL, back, forward, refresh and stop controls</li>
+  <li>Building a LaunchScreen.xib</li>
+  <li>Interacting with a Rails API using AFNetworking</li>
+  <li>Installing and using Cocoapods</li>
+  <li>Creating app archive and uploading build to iTunesConnect</li>
+  <li>Setting up screenshots, description, app info and submitting to TestFlight Beta Review</li>
+  <li>Adding pull-to-refresh with UIRefreshControl</li>
+  <li>Changing the UINavigationBar background color, text color, and transparency
+Creating round images with clipsToBounds</li>
+  <li>Creating field validations for email and dollar amounts</li>
+  <li>Using Images.xcassets with 1x,2x,3x assets</li>
+</ul>
+:ET
