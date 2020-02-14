@@ -9,7 +9,8 @@ body {
 
 a {
   color: #4D7FAC;
-  overflow-wrap: break-word;
+  display: inline-block;
+  word-break: break-word;
 }
 
 h2 {
@@ -20,6 +21,7 @@ h2 {
 h3 {
   font-weight: bold;
   font-size: 17px;
+  margin: 30px 0px 0px;
 }
 
 .container {
@@ -154,6 +156,20 @@ hr {
   padding: 7px 19px;
   border-radius: 5px;
   overflow: auto;
+}
+
+.highlighter-rouge {
+  background-color:rgba(29, 28, 29, 0.04);
+  border-bottom-left-radius:3px;
+  border-bottom-right-radius:3px;
+  border-top-left-radius:3px;
+  border-top-right-radius:3px;
+  box-sizing:border-box;
+  color:rgb(224, 30, 90);
+  padding-bottom:1px;
+  padding-left:3px;
+  padding-right:3px;
+  padding-top:2px;
 }
 
 /*https://draculatheme.com/pygments/*/
