@@ -5,11 +5,11 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.6;
-  overflow-wrap: break-word;
 }
 
 a {
   color: #4D7FAC;
+  overflow-wrap: break-word;
 }
 
 h2 {
