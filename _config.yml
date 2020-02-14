@@ -2,5 +2,4 @@ name: "Kenneth.fm"
 description: "Kenneth's blog"
 url: "http://localhost:4000"
 permalink: /:categories/:title/
-highlighter: true
 excerpt_separator: <!--more-->

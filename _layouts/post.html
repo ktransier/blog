@@ -1,16 +1,12 @@
 ---
 layout: main
 ---
-<div class="col-md-9">
-  <div class="content">
-		<div class="post">
-		  <div class="post-title">{{page.title}}</div>
-
-		  <div class="post-date">
-		    {{page.date | date: "%B %e, %Y" }}
-		  </div>
-
-		  {{content}}
-		</div>
+<div class="content">
+	<div class="post">
+	  <div class="post-title">{{page.title}}</div>
+	  <div class="post-date">
+	    {{page.date | date: "%B %e, %Y" }}
+	  </div>
+	  {{content}}
 	</div>
 </div>
