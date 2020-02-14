@@ -181,7 +181,7 @@ Run a migration on your user model to add email and firebase_external_id attribu
 
 ### 7. Setup an AuthenticationManager on the server 
 
-Add an AuthenticationManager within on the server to verify the Firebase token and use it to find the current user or authenticate an endpoint.
+Add an AuthenticationManager on the server to verify the Firebase token and use it to find the current user or authenticate an endpoint.
 
 ```ruby
 # AuthenticationManager.rb
