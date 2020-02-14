@@ -12,7 +12,11 @@
     </script>
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kenneth Transier</title>
+    {% if page.title %}
+      <title>{{ page.title }} | Kenneth Transier</title>
+    {% else %}
+      <title>Kenneth Transier</title>
+    {% endif %}
   </head>
   <body>
     <div class="container">
