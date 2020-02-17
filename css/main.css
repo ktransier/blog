@@ -30,6 +30,10 @@ h3 {
   padding: 20px;
 }
 
+.clearfix {
+  overflow: auto;
+}
+
 /*NAVIGATION*/
 
 #logo {
@@ -170,6 +174,10 @@ hr {
   padding-left:3px;
   padding-right:3px;
   padding-top:2px;
+}
+
+.app-store-badge {
+  width: 130px;
 }
 
 /*https://draculatheme.com/pygments/*/
