@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-title: AWS Cognito for iOS is not ready for prime time
+title:  Needed improvements in AWS Cognito's iOS SDK
 category: blog
 image_url: null
 ---
 
-For an iOS project I've been building recently, I decided to start with [AWS Cognito](https://aws-amplify.github.io/docs/ios/authentication) as the authentication solution. There's a lot going for Cognito, including the free tier up to 50,000 active users, hosted UI libraries and the ability to leverage AWS's security in storing passwords.
+For an iOS project I've been building recently, I decided to start with [Cognito](https://aws-amplify.github.io/docs/ios/authentication) as the authentication solution. There's a lot going for Cognito, including the free tier up to 50,000 active users, hosted UI libraries and the ability to leverage AWS's security in storing passwords.
 
 However, my experience with Cognito has given me a lot of pause around using it for future projects and the libraries need to evolve before I could recommend it for building iOS authentication flows. Here are the primary challenges that need to be solved in my experience:
 
