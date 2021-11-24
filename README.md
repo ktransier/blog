@@ -1,3 +1,3 @@
 ## Kenneth.fm
 
-My blog and portfolio built using Jekyll
++ Runs on Jekyll and deployed via Heroku
