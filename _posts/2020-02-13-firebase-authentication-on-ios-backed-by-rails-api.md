@@ -13,16 +13,16 @@ Here are the steps:
 
 Follow the instructions in this doc: [https://firebase.google.com/docs/ios/setup](https://firebase.google.com/docs/ios/setup) In this step you'll set up a new Firebase project, add the  `Firebase/Auth` library and configure Firebase in your app delegate.
 
-### 2. Create a class to manage authentication on the client
+### 2. Create a struct to manage authentication on the client
 
-Next you'll want to set up a class in the client for interacting with the Firebase Auth API. You can create functions for the basic auth operations that accept success and error handlers. The Firebase docs here are a great place to read more about these API calls: [https://firebase.google.com/docs/auth/ios/manage-users](https://firebase.google.com/docs/auth/ios/manage-users)
+Next you'll want to set up a struct in the client for interacting with the Firebase Auth API. You can create functions for the basic auth operations that accept success and error handlers. The Firebase docs here are a great place to read more about these API calls: [https://firebase.google.com/docs/auth/ios/manage-users](https://firebase.google.com/docs/auth/ios/manage-users)
 
-This class includes the `getUserState` function, which allows you to check whether the user is currently signed in. This is an async operation and you're able to pass in a handler to execute when the state has been evaluated. This is particularly useful when starting the application and determining if an auth view should be displayed. You can read more about the state change listener here: [https://firebase.google.com/docs/auth/ios/start#sign_in_existing_users](https://firebase.google.com/docs/auth/ios/start#sign_in_existing_users)
+This struct includes the `getUserState` function, which allows you to check whether the user is currently signed in. This is an async operation and you're able to pass in a handler to execute when the state has been evaluated. This is particularly useful when starting the application and determining if an auth view should be displayed. You can read more about the state change listener here: [https://firebase.google.com/docs/auth/ios/start#sign_in_existing_users](https://firebase.google.com/docs/auth/ios/start#sign_in_existing_users)
 
 ```swift
 // AuthenticationManager.swift
 
-class AuthenticationManager {
+struct AuthenticationManager {
   func getUserState(
     handler: @escaping (_: AuthenticationState) -> Void
   ) {

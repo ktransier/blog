@@ -15,4 +15,4 @@ Hi! I’m Kenneth Transier. I am a product-focused software engineer versed in b
 
 You can reach me at
 <a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>
-, or [@ktransier](http://twitter.com/ktransier) on Twitter. Here's my current [resume](/resume.pdf).
+, or [@ktransier](http://twitter.com/ktransier) on Twitter. Here's my current [resume](/assets/resume.pdf).
