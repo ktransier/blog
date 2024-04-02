@@ -11,20 +11,21 @@ image_url: null
  $ rails new webscraper --database=postgresql
  ```
 
+
 2. Move the following gems outside of the test group and bundle:
 ```
 gem 'selenium-webdriver'
 gem 'webdrivers'
 ```
 
-3. Run the following to add Linux as a supported platform within your Gemfile.lock, this is necessary to support the Heroku deployment:
 
+3. Run the following to add Linux as a supported platform within your Gemfile.lock, this is necessary to support the Heroku deployment:
 ```
 $ bundle lock --add-platform x86_64-linux
 ```
 
-4. Add a new file under `./app/scrapers/scraper.rb` with the following code:
 
+4. Add a new file under `./app/scrapers/scraper.rb` with the following code:
 ```ruby
 class Scraper
 	def scrape
@@ -47,8 +48,8 @@ class Scraper
 end
 ```
 
-5. Next create a rake task under `./lib/tasks/scraper.rb` with the following code:
 
+5. Next create a rake task under `./lib/tasks/scraper.rb` with the following code:
 ```ruby
 namespace :scraper do
   desc "Scrape"
@@ -59,7 +60,9 @@ namespace :scraper do
 end
 ```
 
+
 6. Run `$ rake scraper:scrape` and test that the scraper is functioning locally.
+
 
 7. Commit your changes:
 ```
@@ -67,8 +70,8 @@ git add -A
 git commit -m "initial"
 ```
 
-8. Next create a new Heroku app and add the following build packs:
 
+8. Next create a new Heroku app and add the following build packs:
 ```
 $ heroku create
 $ heroku buildpacks:add --index 1 heroku/ruby
@@ -76,11 +79,12 @@ $ heroku buildpacks:add --index 2 heroku/chromedriver
 $ heroku buildpacks:add --index 3 heroku/google-chrome
 ```
 
-9. After deploying, run the following to test that the scraper is functioning in production:
 
+9. After deploying, run the following to test that the scraper is functioning in production:
 ```
 heroku run rake scraper:scrape
 ``` 
+
 
 10. If running the scraper as a recurring job, set up a new job using Heroku Scheduler: https://devcenter.heroku.com/articles/scheduler
 
