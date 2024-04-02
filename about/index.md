@@ -14,5 +14,4 @@ Hi! I’m Kenneth Transier. I am a product-focused software engineer versed in b
 * Led the launch of the [Beer Scanner](https://apps.apple.com/us/app/tavour/id956371806), a machine learning initiative from Tavour that aimed to make searching for a craft beer 10x faster using label recognition. Worked to integrate MLModels with a React Native frontend and developed a method of generating synthetic beer label images that opened the door to 90% recognition of all beers in the U.S.
 
 You can reach me at
-<a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>
-, or [@ktransier](http://twitter.com/ktransier) on Twitter. Here's my current [resume](/assets/resume.pdf).
+<a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>. Here's my current [resume](/assets/resume.pdf).
