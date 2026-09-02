@@ -47,6 +47,11 @@ h3 {
   color: #555;
 }
 
+.nav-sep {
+  color: #ccc;
+  margin: 0px 6px;
+}
+
 .social-icon-container {
   margin: 10px 0px 0px;
 }
@@ -100,6 +105,17 @@ footer {
 
 img {
   width: 100%;
+}
+
+figure {
+  margin: 0px 0px 40px;
+}
+
+figcaption {
+  font-size: 13px;
+  color: #777;
+  text-align: center;
+  margin-top: 8px;
 }
 
 /* HR */

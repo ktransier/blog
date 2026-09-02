@@ -5,13 +5,22 @@ published: true
 
 <div class="post-title">About</div>
 
-Hi! I’m Kenneth Transier. I am a product-focused software engineer versed in both web and mobile development based in Seattle, WA. Here’s some of the things I’ve built:
+Hi! I’m Kenneth Transier. I am a software engineer based in Seattle, WA. This is my personal blog where I post project updates, technical write-ups, and photography adventures. Thanks for stopping by.
 
-* Led the development of Blue Bottle Coffee’s [flagship iOS application](https://bluebottlecoffee.com/mobile-app), working to build the technical roadmap, architect the iOS client and launch to all cafes in the U.S. within 6 months
-	
-* Built the [Crisis Tracker](https://crisistracker.org/map), a real-time crisis mapping application run by Invisible Children, broadcasting attacks by the Lord’s Resistance Army on civilians from 75 early-warning radios in central Africa
-	
-* Led the launch of the [Beer Scanner](https://apps.apple.com/us/app/tavour/id956371806), a machine learning initiative from Tavour that aimed to make searching for a craft beer 10x faster using label recognition. Worked to integrate MLModels with a React Native frontend and developed a method of generating synthetic beer label images that opened the door to 90% recognition of all beers in the U.S.
+
+Projects:
+
+* [Fielded](https://fielded.shop) - a search engine for products that ship direct to consumer
+
+* [Crisis Tracker](https://crisistracker.org/map) - a real-time crisis mapping application for Invisible Children that broadcasts Lord's Resistance Army attacks from early-warning radios across central Africa
+
+* [Paddleboard](https://paddleboard.news) - a Seattle news aggregator that pulls from local newspapers and neighborhood blogs, alongside weather, sports scores, election info, and resources for navigating the city
+
+* [Washington Bike Map](https://wabikemap.com) - a map of bike paths in Washington state pulled from various state, county and city sources
+
+* [TrainingPlan](https://trainingplan.app) - an app that helps endurance athletes set and achieve their training goals
+
+* [Sidereus Nuncius](https://sidereusnuncius.org) - After visiting the Galileo Museum, I was inspired to read Galileo's Starry Messenger and realized there wasn't a public-domain version of his work that uses his original drawings. This takes a version translated in 1880, adds the original drawings and makes it easy to read on mobile
 
 You can reach me at
-<a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>. Here's my current [resume](/assets/resume.pdf).
+<a href="mailto:hello@kenneth.fm">hello@kenneth.fm</a>.
