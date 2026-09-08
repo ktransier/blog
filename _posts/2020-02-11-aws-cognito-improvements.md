@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title:  Needed improvements in AWS Cognito's iOS SDK
 category: blog
