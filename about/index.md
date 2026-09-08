@@ -18,7 +18,7 @@ Projects:
 
 * [Washington Bike Map](https://wabikemap.com) - a map of bike paths in Washington state pulled from various state, county and city sources
 
-* [TrainingPlan](https://trainingplan.app) - an app that helps endurance athletes set and achieve their training goals
+* [Training Plan](https://trainingplan.app) - an app that helps endurance athletes set and achieve their training goals
 
 * [Sidereus Nuncius](https://sidereusnuncius.org) - After visiting the Galileo Museum, I was inspired to read Galileo's Starry Messenger and realized there wasn't a public-domain version of his work that uses his original drawings. This takes a version translated in 1880, adds the original drawings and makes it easy to read on mobile
 
