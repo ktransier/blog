@@ -14,7 +14,7 @@ Projects:
 
 * [Crisis Tracker](https://crisistracker.org/map) - a real-time crisis mapping application for Invisible Children that broadcasts Lord's Resistance Army attacks from early-warning radios across central Africa
 
-* [Paddleboard](https://paddleboard.news) - a Seattle news aggregator that pulls from local newspapers and neighborhood blogs, alongside weather, sports scores, election info, and resources for navigating the city
+* [Paddleboard](https://paddleboard.news) - a Seattle news aggregator that pulls from local newspapers and neighborhood blogs, alongside weather, sports scores and election info
 
 * [Washington Bike Map](https://wabikemap.com) - a map of bike paths in Washington state pulled from various state, county and city sources
 
